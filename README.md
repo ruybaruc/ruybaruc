@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruybaruc
+- 👋 Hi, I’m @ruybaruc .Net developer since 2019
 - 👀 I’m interested in .Net remote jobs
 - 🌱 I’m currently learning Microservices and cloud
 <!---- 💞️ I’m looking to collaborate on ...--->
