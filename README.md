@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruybaruc
 - 👀 I’m interested in .Net remote jobs
-- 🌱 I’m currently learning Microservices and clowd
+- 🌱 I’m currently learning Microservices and cloud
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: email -> ruybaruc@gmail.com
 
